@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.container{
+    background-color: aqua;
+    display: flex;
+}
+img{
+    max-width: 50%;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
