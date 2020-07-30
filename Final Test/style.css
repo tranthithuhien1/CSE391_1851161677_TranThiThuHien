@@ -1,6 +1,7 @@
 .search{
     display: flex;
     width: auto;
+    margin-left: 300px;
 }
 .navbar-nav{
     background-color: blue;

@@ -1,0 +1,37 @@
+body{
+    background-color: #fdedca;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: #cc6600;
+}
+table{
+    border-collapse: unset;
+    border: 0.5px solid rgb(226, 155, 202);
+    border-collapse: unset;
+    width: 350px;
+}
+th{
+    background-color: #cc6600;
+    color: #ffffff;
+    border: 1px solid rgb(245, 168, 219);
+    font-size: 20px;
+}
+tr{
+    background-color: #ffffff;
+   
+}
+.stt{
+    text-align: center;
+}
+#changebcolor{
+    background-color:#fdedca ;
+}
+td{
+    border: 1px solid rgb(218, 152, 196);
+    font-size: 20px;
+    
+}

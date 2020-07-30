@@ -1,0 +1,9 @@
+.sq_b{
+    display: flex;
+}
+.sq{
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}

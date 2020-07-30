@@ -1,0 +1,21 @@
+body{
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: rgba(182, 59, 59, 0.877);
+}
+table, tr, td{
+    border: 1px solid rgb(177, 120, 35);
+    border-collapse: collapse;
+}
+table{
+    background-color: lightblue;
+}
+button{
+    background-color: lightgray;
+}
+div{
+    text-align: center;
+    color: blue;
+}
